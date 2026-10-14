@@ -1,0 +1,11 @@
+C:\Users\HRT\source\repos\Russian_Square_Game\Russian_Square_Game\bin\Debug\Russian_Square_Game.exe.config
+C:\Users\HRT\source\repos\Russian_Square_Game\Russian_Square_Game\bin\Debug\Russian_Square_Game.exe
+C:\Users\HRT\source\repos\Russian_Square_Game\Russian_Square_Game\bin\Debug\Russian_Square_Game.pdb
+C:\Users\HRT\source\repos\Russian_Square_Game\Russian_Square_Game\obj\Debug\Russian_Square_Game.csproj.AssemblyReference.cache
+C:\Users\HRT\source\repos\Russian_Square_Game\Russian_Square_Game\obj\Debug\Russian_Square_Game.Properties.Resources.resources
+C:\Users\HRT\source\repos\Russian_Square_Game\Russian_Square_Game\obj\Debug\Russian_Square_Game.csproj.GenerateResource.cache
+C:\Users\HRT\source\repos\Russian_Square_Game\Russian_Square_Game\obj\Debug\Russian_Square_Game.csproj.CoreCompileInputs.cache
+C:\Users\HRT\source\repos\Russian_Square_Game\Russian_Square_Game\obj\Debug\Russian_Square_Game.exe
+C:\Users\HRT\source\repos\Russian_Square_Game\Russian_Square_Game\obj\Debug\Russian_Square_Game.pdb
+C:\Users\HRT\source\repos\Russian_Square_Game\Russian_Square_Game\obj\Debug\Russian_Square_Game.exe.config
+C:\Users\HRT\source\repos\Russian_Square_Game\Russian_Square_Game\obj\Debug\Russian_Square_Game.Russian_Square.resources

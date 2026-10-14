@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HRT\\source\\repos\\Russian_Square_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69FE2A64-383F-4377-98D8-300D26148086}|Russian_Square_Game\\Russian_Square_Game.csproj|C:\\Users\\HRT\\source\\repos\\Russian_Square_Game\\russian_square_game\\russian square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FE2A64-383F-4377-98D8-300D26148086}|Russian_Square_Game\\Russian_Square_Game.csproj|solutionrelative:russian_square_game\\russian square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FE2A64-383F-4377-98D8-300D26148086}|Russian_Square_Game\\Russian_Square_Game.csproj|c:\\users\\hrt\\source\\repos\\russian_square_game\\russian_square_game\\game logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FE2A64-383F-4377-98D8-300D26148086}|Russian_Square_Game\\Russian_Square_Game.csproj|solutionrelative:russian_square_game\\game logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FE2A64-383F-4377-98D8-300D26148086}|Russian_Square_Game\\Russian_Square_Game.csproj|C:\\Users\\HRT\\source\\repos\\Russian_Square_Game\\russian_square_game\\russian square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69FE2A64-383F-4377-98D8-300D26148086}|Russian_Square_Game\\Russian_Square_Game.csproj|solutionrelative:russian_square_game\\russian square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FE2A64-383F-4377-98D8-300D26148086}|Russian_Square_Game\\Russian_Square_Game.csproj|C:\\Users\\HRT\\source\\repos\\Russian_Square_Game\\russian_square_game\\block code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FE2A64-383F-4377-98D8-300D26148086}|Russian_Square_Game\\Russian_Square_Game.csproj|solutionrelative:russian_square_game\\block code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Russian Square.cs",
+              "DocumentMoniker": "C:\\Users\\HRT\\source\\repos\\Russian_Square_Game\\Russian_Square_Game\\Russian Square.cs",
+              "RelativeDocumentMoniker": "Russian_Square_Game\\Russian Square.cs",
+              "ToolTip": "C:\\Users\\HRT\\source\\repos\\Russian_Square_Game\\Russian_Square_Game\\Russian Square.cs",
+              "RelativeToolTip": "Russian_Square_Game\\Russian Square.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T07:53:37.003Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Russian Square.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HRT\\source\\repos\\Russian_Square_Game\\Russian_Square_Game\\Russian Square.cs",
+              "RelativeDocumentMoniker": "Russian_Square_Game\\Russian Square.cs",
+              "ToolTip": "C:\\Users\\HRT\\source\\repos\\Russian_Square_Game\\Russian_Square_Game\\Russian Square.cs [Design]",
+              "RelativeToolTip": "Russian_Square_Game\\Russian Square.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T07:56:28.423Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "block code.cs",
+              "DocumentMoniker": "C:\\Users\\HRT\\source\\repos\\Russian_Square_Game\\Russian_Square_Game\\block code.cs",
+              "RelativeDocumentMoniker": "Russian_Square_Game\\block code.cs",
+              "ToolTip": "C:\\Users\\HRT\\source\\repos\\Russian_Square_Game\\Russian_Square_Game\\block code.cs",
+              "RelativeToolTip": "Russian_Square_Game\\block code.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T15:25:39.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game logic.cs",
+              "DocumentMoniker": "C:\\Users\\HRT\\source\\repos\\Russian_Square_Game\\Russian_Square_Game\\Game logic.cs",
+              "RelativeDocumentMoniker": "Russian_Square_Game\\Game logic.cs",
+              "ToolTip": "C:\\Users\\HRT\\source\\repos\\Russian_Square_Game\\Russian_Square_Game\\Game logic.cs",
+              "RelativeToolTip": "Russian_Square_Game\\Game logic.cs",
+              "ViewState": "AgIAACcCAAAAAAAAAAAqwBkCAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T14:16:42.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
